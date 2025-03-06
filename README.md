@@ -14,8 +14,8 @@ The data for this analysis is sourced from two CSV files:
 * **Study Results:** Contains tumor volume measurements for each mouse over time during the experiment.
 ## Data Preparation
 1. **Data Cleaning**
-* **Missing Values:** Identified and handled missing or incomplete data in both datasets.
-* **Data Type Conversion:** Converted the necessary columns into appropriate data types (e.g., numeric columns for tumor volume, categorical for drug regimen).
+* Missing Values: Identified and handled missing or incomplete data in both datasets.
+* Data Type Conversion: Converted the necessary columns into appropriate data types (e.g., numeric columns for tumor volume, categorical for drug regimen).
 * **Duplicates:** Removed any duplicate entries to maintain data integrity.
 2. **Data Manipulation**
 * **Merging Datasets:** Combined the mouse metadata and study results using the Mouse ID to create a unified dataset for analysis.
