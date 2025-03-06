@@ -58,7 +58,7 @@ This table presents a breakdown of tumor sizes for mice treated with different d
 ## Conclusion
 This analysis provides valuable insights into the effectiveness of various drug regimens in controlling tumor volume in mice. The use of visualizations and statistical summaries helped to uncover important patterns in the data. The analysis suggests that **Capomulin** and **Ramicane** are the most effective regimens, with lower tumor volumes and higher frequencies of use.
 
-## Conclusion
+## Challenges
 1. **Data Cleaning:** The dataset contained missing values and duplicates, requiring preprocessing to ensure accuracy before analysis.
 2. **Merging Datasets:** Merging multiple datasets (mouse metadata and study results) required careful alignment to avoid mismatches.
 3. **Choosing Effective Visualizations:** Selecting the most appropriate charts to communicate insights without misrepresentation.
