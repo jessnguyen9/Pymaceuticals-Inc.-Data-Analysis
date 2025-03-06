@@ -35,8 +35,22 @@ After cleaning and preparing the data, several key analyses were performed:
 ![Bar Chart Observed Mouse Timepoints by Drug Regimen](https://github.com/user-attachments/assets/6057038e-133a-476c-abc4-97ebb01adda5)
 
 ## Statistical Summary of Drug Regimens:
-The following table summarizes key statistical metrics (mean, median, variance, standard deviation, and SEM) for each drug
 
-![Untitled spreadsheet - Sheet2](https://github.com/user-attachments/assets/f55900fd-850d-49ea-aaf4-6a895e5f3eea)
- regimen:
+![Untitled spreadsheet - Sheet3](https://github.com/user-attachments/assets/33fef1be-7716-49b8-ac3e-12c6d868a4c3)
+
+This table presents a breakdown of tumor sizes for mice treated with different drug regimens. Here's what each column means:
+* **Mean Tumor Volume (mm³):** This is the average tumor size for mice in each treatment group. Lower values suggest the drug may be more effective at reducing tumor size.
+* **Median Tumor Volume (mm³):** The middle value when all tumor sizes are arranged in order. If the mean and median are close, the data is evenly distributed.
+* **Variance:** This shows how much tumor sizes vary within each treatment group. Higher values mean there was a wider range of tumor sizes.
+* **Standard Deviation (Std):** A measure of how spread out the tumor sizes are. A lower standard deviation means tumor sizes were more consistent within that group.
+* **Standard Error of Mean (SEM):** This shows how precise the mean tumor size is. A smaller SEM means the average is more reliable and less affected by variability in the data.
+### Key Takeaways
+* Capomulin and Ramicane had the lowest average tumor volumes, suggesting they may be the most effective treatments.
+* Ketapril, Naftisol, and Placebo had some of the highest tumor sizes, indicating they may not be as effective.
+* Higher variance and standard deviation (e.g., Ketapril and Naftisol) suggest greater inconsistency in how mice responded to the drug.
+
+## Conclusion
+This analysis provides valuable insights into the effectiveness of various drug regimens in controlling tumor volume in mice. The use of visualizations and statistical summaries helped to uncover important patterns in the data. The analysis suggests that **Capomulin** and **Ramicane** are the most effective regimens, with lower tumor volumes and higher frequencies of use.
+
+
 
