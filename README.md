@@ -63,7 +63,7 @@ This analysis provides valuable insights into the effectiveness of various drug 
 2. **Merging Datasets:** Merging multiple datasets (mouse metadata and study results) required careful alignment to avoid mismatches.
 3. **Choosing Effective Visualizations:** Selecting the most appropriate charts to communicate insights without misrepresentation.
 
-## What I Would Do Differently
+## What Could Have Been Done Differently?
 1. **Expand Visualization Techniques:** Use advanced visualizations (e.g., heatmaps, violin plots) to uncover deeper insights.
 2. **Perform Statistical Testing:** Conduct hypothesis testing (e.g., ANOVA, t-tests) to validate observed differences in tumor volume.
 
